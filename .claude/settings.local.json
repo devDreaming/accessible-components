@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(__NEW_LINE_a18d8d3ecfe1478e__ echo:*)",
+      "Bash(__NEW_LINE_a18d8d3ecfe1478e__ grep:*)",
+      "Bash(__NEW_LINE_1d420f59eb7c6044__ echo:*)",
+      "Bash(__NEW_LINE_1d420f59eb7c6044__ grep:*)",
+      "Bash(__NEW_LINE_9d41dc1a9334073a__ echo:*)",
+      "Bash(__NEW_LINE_9d41dc1a9334073a__ grep:*)",
+      "Bash(__NEW_LINE_3d79dda4d7a2ebe0__ echo:*)",
+      "Bash(__NEW_LINE_3d79dda4d7a2ebe0__ grep:*)",
+      "Bash(__NEW_LINE_420043deb5345121__ echo:*)",
+      "Bash(__NEW_LINE_420043deb5345121__ cat:*)",
+      "Bash(__NEW_LINE_00775aeae39c99ef__ cat:*)",
+      "Bash(__NEW_LINE_af13573b0127c187__ echo:*)",
+      "Bash(__NEW_LINE_af13573b0127c187__ grep:*)",
+      "Bash(__NEW_LINE_6392be6c7bb63c7d__ echo:*)",
+      "Bash(__NEW_LINE_6392be6c7bb63c7d__ grep:*)",
+      "Bash(__NEW_LINE_d02606ed3f642100__ echo:*)",
+      "Bash(__NEW_LINE_d02606ed3f642100__ grep:*)",
+      "Bash(__NEW_LINE_ebc1055d5c7210a4__ echo:*)",
+      "Bash(__NEW_LINE_ebc1055d5c7210a4__ grep:*)",
+      "Bash(__NEW_LINE_ab1bebc8508c2633__ echo:*)",
+      "Bash(__NEW_LINE_fd186c28dd5ade64__ echo:*)",
+      "Bash(__NEW_LINE_fd186c28dd5ade64__ grep:*)"
+    ]
+  }
+}

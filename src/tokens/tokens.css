@@ -2,13 +2,13 @@
 
 :root {
   /* Colors — Light */
-  --color-bg: #f8f6f1;
+  --color-bg: #f1f8f3;
   --color-surface: #ffffff;
-  --color-border: #d4d0c8;
+  --color-border: #cfd4c8;
   --color-text-primary: #1a1a1a;
   --color-text-secondary: #5c5c5c;
-  --color-accent: #7c3aed;
-  --color-accent-hover: #6d28d9;
+  --color-accent: #00c885;
+  --color-accent-hover: #58ce8f;
   --color-error: #dc2626;
   --color-success: #16a34a;
 
@@ -59,8 +59,8 @@
   --color-border: #333333;
   --color-text-primary: #ededed;
   --color-text-secondary: #a0a0a0;
-  --color-accent: #a78bfa;
-  --color-accent-hover: #8b5cf6;
+  --color-accent: #00c82b;
+  --color-accent-hover: #58ce71;
   --color-error: #f87171;
   --color-success: #4ade80;
 }

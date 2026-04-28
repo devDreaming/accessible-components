@@ -7,9 +7,10 @@
   --color-border: #cfd4c8;
   --color-text-primary: #1a1a1a;
   --color-text-secondary: #5c5c5c;
-  --color-accent: #00c885;
-  --color-accent-hover: #58ce8f;
-  --color-error: #dc2626;
+  --color-accent: #007a55;
+  --color-accent-hover: #006645;
+  --color-accent-foreground: #ffffff;
+  --color-error: #b91c1c;
   --color-success: #16a34a;
 
   /* Spacing — 4px scale */
@@ -59,8 +60,9 @@
   --color-border: #333333;
   --color-text-primary: #ededed;
   --color-text-secondary: #a0a0a0;
-  --color-accent: #00c82b;
-  --color-accent-hover: #58ce71;
+  --color-accent: #34d399;
+  --color-accent-hover: #22c58a;
+  --color-accent-foreground: #0f0f0f;
   --color-error: #f87171;
   --color-success: #4ade80;
 }

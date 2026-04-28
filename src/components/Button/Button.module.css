@@ -36,7 +36,7 @@
 /* Variants */
 .primary {
   background: var(--color-accent);
-  color: #ffffff;
+  color: var(--color-accent-foreground);
 }
 
 .primary:not(:disabled):hover {
@@ -51,7 +51,7 @@
 
 .secondary:not(:disabled):hover {
   background: var(--color-accent);
-  color: #ffffff;
+  color: var(--color-accent-foreground);
 }
 
 .ghost {

@@ -17,7 +17,7 @@
   border-radius: var(--radius-md);
   font-family: var(--font-body);
   font-size: var(--font-size-sm);
-  color: #ffffff;
+  color: var(--color-accent-foreground);
   animation: slideIn var(--transition-base);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
 }
